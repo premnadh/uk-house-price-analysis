@@ -136,7 +136,7 @@ uk-house-price-analysis/
 ---
 
 ## 👤 Author
-PremNadh Gajula  
+Prem Nadh Gajula  
 Aspiring Data Scientist / ML Engineer  
 Open to Data & AI roles
 
