@@ -110,21 +110,23 @@ streamlit run dashboard/app.py
 
 ## 📂 Project Structure
 
+```text
 uk-house-price-analysis/
 │
 ├── dashboard/
 │   └── app.py
+│
 ├── data/
 │   └── processed/
 │       └── cleaned_housing.csv
+│
 ├── notebooks/
 │   └── eda.ipynb
+│
 ├── requirements.txt
 ├── runtime.txt
 └── README.md
-
----
-
+```
 ## 🚀 Future Improvements
 • Add machine learning price prediction model  
 • Deploy using Docker / AWS / Render  
